@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
-metadeta:
+metadata:
   name: platforms-depl
 spec:
   replicas: 1
